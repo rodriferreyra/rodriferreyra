@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHPqz1XuUApjw/profile-displaybackgroundimage-shrink_350_1400/B4DZXECr4AHIAY-/0/1742750795907?e=1748476800&v=beta&t=0Z1Ixc4tgpJ7WQviGR0gXIYEiXD239i4N22lO-3Jj2Y"  alt="Banner de LinkedIn"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHPqz1XuUApjw/profile-displaybackgroundimage-shrink_350_1400/B4DZXECr4AHIAY-/0/1742750795907?e=1761782400&v=beta&t=nMJa46tzObNd46Sr6wQFh8YPlghtVCNpLoAqNwDm_Co"  alt="Banner de LinkedIn"/>
 </p>
 
 <!-- Saludo -->
